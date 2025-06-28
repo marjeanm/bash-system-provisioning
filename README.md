@@ -36,3 +36,35 @@ This script:
 ## 📁 Directory Structure
 ![Screenshot 2025-06-28 112319](https://github.com/user-attachments/assets/c4e0301b-69fc-4437-be3d-22d7ba000b0c)
 
+
+
+---
+
+## 🧠 Project Purpose
+
+These scripts showcase my ability to:
+- Automate repetitive admin tasks with Bash  
+- Write readable, error-tolerant code  
+- Follow real-world provisioning logic used in security labs and cloud operations  
+
+This work lays the foundation for larger automation efforts like hardening endpoints, configuring access control, and running compliance scripts.
+
+---
+
+## 🧪 Sample Output
+
+- ✅ “Group already exists.”  
+- ✅ “User ‘Users5’ created and added to group ‘Sales’.”  
+- ✅ “Backup for user1 created successfully.”
+
+(*See `/screenshots` for terminal logs and live execution.*)
+
+---
+
+## 👩🏽‍💻 Author
+
+**Marjean Mayo-Baker**  
+Cybersecurity Engineer | Bash Automation | IAM Specialist  
+[LinkedIn](https://linkedin.com/in/marjean-mayo-baker)
+
+
